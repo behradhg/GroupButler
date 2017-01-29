@@ -1,28 +1,11 @@
-#Group Butler
+#Bot nex
 
 ##Short introduction
 
-This bot has been created to help people in the administration of a group, with a lot of useful tools.
+This bot has been created to help people in the administration of a group, with a lot of useful tools(bk).
 
 This bot born as an [Otouto](https://github.com/topkecleon/otouto) [v3.1](https://github.com/topkecleon/otouto/tree/26c1299374af130bbf8457af904cb4ea450caa51) ([@mokubot](https://telegram.me/mokubot)), but has been turned in an administration bot.
-
-Follow the [channel](https://telegram.me/groupbutler_ch) if you want to be updated about new changes. The official bot is [@GroupButler_bot](http://github.com/groupbutler_bot).
-
-* * *
-
-##Setup
-List of required packages:
-- _libreadline-dev_
-- _redis-server_
-- _lua5.2_
-- _liblua5.2dev_
-- _libssl-dev_
-- _git_
-- _make_
-- _unzip_
-- _curl_
-
-You will need some Lua modules that can be installed via the Lua package manager LuaRocks
+*kir mikhaiy*
 
 **Installation**
 ```bash
@@ -48,7 +31,7 @@ You will need some Lua modules that can be installed via the Lua package manager
 
 # Clone the repository and give the permissions to start the launch script
 
- git clone https://github.com/RememberTheAir/GroupButler.git
+ git https://github.com/behradhg/GroupButler
  cd GroupButler && sudo chmod 777 launch.sh
 ```
 
